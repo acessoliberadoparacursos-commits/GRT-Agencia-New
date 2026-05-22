@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+agency-grt-hub.lovable.app	TRUE	/	FALSE	1999999999	__cf_bm	nVsrPjeiNGv6ZaTmBA2H.sqcj2UW1iaOH1q6dbyFoRU-1779475427.1263921-1.0.1.1-1WlGr3bGeYoP2rSmOpAAeiu8aBHP.bV88oglZ3EU7W_R_uENol8f4CrZbGTG9qIbfZJJTyQv1FuW4.pTOrO0u4cNr_3fFFrZKFgJAsiL7QHbsZGY4sC.M.EjRFWDzrV5
+lovable.app	TRUE	/	FALSE	1999999999	SameSite	None
+
